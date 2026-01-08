@@ -2,7 +2,7 @@
 
 # 👨‍💻 Cześć, jestem Dawid!
 
-### 🐘 PHP Developer w drodze | Java Developer
+### 🐘 PHP Developer w drodze | ☕ Java Developer
 
 **🎯 Aktywnie szukam pracy jako PHP Junior Developer**
 
@@ -18,7 +18,8 @@
 - 🔄 Transycja do PHP/Laravel
 - 🌱 Buduję portfolio w Laravel
 - 🎓 Łączę solidne fundamenty backendu z nowymi umiejętnościami
-
+- 🔍 Dbam o jakość kodu używając narzędzi statycznych (Psalm, PHPStan, PHPMD)
+- ✅ Wierzę w wartość testów - piszę je jako nieodłączną część developmentu
 
 ## 🛠️ Stack technologiczny
 
@@ -29,6 +30,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Psalm](https://img.shields.io/badge/Psalm-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![PHPMD](https://img.shields.io/badge/PHPMD-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-00E6B8?style=for-the-badge&logo=php&logoColor=white)
 
 ### Doświadczenie komercyjne (3 lata):
 
@@ -41,6 +46,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=for-the-badge&logo=openjdk&logoColor=black)
 
 ## 📊 Podsumowanie
 
