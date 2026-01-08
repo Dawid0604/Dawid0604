@@ -7,7 +7,7 @@
 **🎯 Aktywnie szukam pracy jako PHP Junior Developer**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawid0604sikora@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)]([link](https://github.com/Dawid0604/CarBase))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Dawid0604/CarBase)
 
 </div>
 
