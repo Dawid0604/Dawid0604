@@ -2,7 +2,7 @@
 
 # 👨‍💻 Cześć, jestem Dawid!
 
-### 🐘 PHP Developer w drodze | Java Developer (3 lata doświadczenia komercyjnego)
+### 🐘 PHP Developer w drodze | Java Developer
 
 **🎯 Aktywnie szukam pracy jako PHP Junior Developer**
 
