@@ -9,8 +9,7 @@
 ---
 
 ## 🚀 O mnie
-- 💼 **4 lata komercyjnie** jako Backend Developer (Java/Spring)
-- 🎯 **Cel:** Budowanie skalowalnego, dobrze przetestowanego oprogramowania
+- 💼 **4 lata komercyjnie** jako Java Developer
 
 ---
 
