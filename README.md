@@ -1,15 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Cześć, tu Dawid!
-
-### ☕ Java Backend Developer
-
-[![Email](https://img.shields.io/badge/Email-Kontakt-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawid0604sikora@gmail.com)
-
----
-
 ## 🚀 O mnie
-- 💼 **4 lata komercyjnie** jako Java Developer
+### ☕ Java Backend Developer
+💼 **4 lata komercyjnie** jako Java Developer
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dawid0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ---
 
@@ -38,9 +35,3 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dawid0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
