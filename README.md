@@ -1,37 +1,50 @@
-<div align="center">
+### Java Developer
 
-## 🚀 O mnie
-### ☕ Java Backend Developer
-💼 **4 lata komercyjnie** jako Java Developer
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dawid0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
----
-
-## 🛠️ Stack Technologiczny
-![Java](https://img.shields.io/badge/Java_17%2B-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-C5D928?style=for-the-badge&logo=openjdk&logoColor=black)
-
-![PHP](https://img.shields.io/badge/PHP_8.4-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_12-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+Mam 4 lata komercyjnego doświadczenia w pracy przy systemach
+rozproszonych i projektowaniu mikroserwisów od podstaw. W
+codziennej pracy stawiam na krytyczne myślenie, głęboką analizę
+problemów oraz tworzenie czystego, profesjonalnego kodu. Moje
+dotychczasowe sukcesy obejmują orkiestrację ponad 100 instancji
+w Docker Swarm oraz optymalizację wydajności JVM, która realnie
+poprawiła stabilność maszyn produkcyjnych. Dobrze radzę sobie z
+wyzwaniami takimi jak transakcje rozproszone, spójność danych w
+środowiskach wielobazowych oraz wielkoskalowy web scraping.
 
 ---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🚀 Kluczowe obszary specjalizacji & Osiągnięcia
+
+* 🏗️ **Transformacja Architektury:** Zaprojektowałem i skutecznie przeprowadziłem pełną migrację krytycznego systemu z monolitu do stabilnej architektury mikroserwisowej.
+* 🐳 **Orkiestracja i Skalowanie:** Utrzymuję i skaluję rozproszoną infrastrukturę złożoną z **ponad 100 instancji aplikacji** (Web Scrapers) w środowisku **Docker Swarm**.
+* ⚡ **Optymalizacja JVM:** Posiadam praktyczne doświadczenie w tuningu wydajnościowym maszyn wirtualnych Java, co pozwoliło na realną redukcję zużycia pamięci RAM oraz obciążenia CPU na produkcji.
+* 🔒 **Transakcje Rozproszone:** Implementuję zaawansowane mechanizmy spójności danych w środowiskach wielobazowych z wykorzystaniem protokołu dwufazowego zatwierdzania (**2PC / Atomikos**).
+* 🌐 **Web Scraping & Data:** Buduję wydajne systemy pozyskiwania danych, w tym wielomodułowe integracje międzykomponentowe (Java - Python) oraz moduły geolokalizacyjne oparte o dane przestrzenne (**OpenStreetMap / TERYT**).
 
 ---
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+### 🛠️ Tech Stack
+
+| Kategoria | Technologie i Narzędzia |
+| :--- | :--- |
+| **Języki programowania** | `Java 17/21`, `SQL`, `Python`, `PHP 8`, `HTML/CSS` |
+| **Frameworki / Backend** | `Spring Boot`, `Spring Security`, `Spring Data`, `Spring Cloud`, `Hibernate`, `Resilience4j`, `Laravel` |
+| **Architektura & Wzorce** | `Domain-Driven Design (DDD)`, `Clean Architecture`, `CQRS`, `SOLID`, `Event-Driven Architecture`, `REST API` |
+| **Bazy danych & Message Brokers** | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Apache Kafka`, `Flyway` |
+| **DevOps & Infrastruktura** | `Docker`, `Docker Swarm`, `Git`, `Maven`, `CI/CD Pipelines`, `Linux` |
+| **Testowanie & Jakość kodu** | `JUnit`, `Mockito`, `Testcontainers`, `ArchUnit`, `Selenium`, `Playwright` |
+| **Observability** | `Prometheus`, `Grafana`, `Loki`, `Tempo` |
+
+---
+
+### 📈 Statystyki GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dawid0604&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Statystyki GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawid0604&layout=compact&theme=dark" alt="Najczęściej używane języki" height="150" />
+</p>
+
+---
+
+### 📫 Kontakt
+
+* 💼 **LinkedIn:** [Profil](https://linkedin.com/in/dawid-sikora-94b670415)
