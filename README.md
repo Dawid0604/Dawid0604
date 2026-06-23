@@ -1,6 +1,6 @@
 ### Java Developer
 
-Mam 4 lata komercyjnego doświadczenia w pracy przy systemach
+Posiadam 4 lata komercyjnego doświadczenia w pracy przy systemach
 rozproszonych i projektowaniu mikroserwisów od podstaw. W
 codziennej pracy stawiam na krytyczne myślenie, głęboką analizę
 problemów oraz tworzenie czystego, profesjonalnego kodu. Moje
@@ -38,9 +38,12 @@ wyzwaniami takimi jak transakcje rozproszone, spójność danych w
 
 ### 📈 Statystyki GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawid0604&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Statystyki GitHub" height="150" />
+<p align="left">    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawid0604&layout=compact&theme=dark" alt="Najczęściej używane języki" height="150" />
+</p>
+
+<p align="left">    
+<img src="https://komarev.com/ghpvc/?username=Dawid0604&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
